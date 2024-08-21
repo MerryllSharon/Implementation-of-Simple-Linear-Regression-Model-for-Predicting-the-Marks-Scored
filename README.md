@@ -84,25 +84,27 @@ print("Root Mean Squared Error:", rmse)
 
 ## Output:
 ### head():
-![Screenshot 2024-08-20 222944](./images/bestfitline.png)
+![HEAD](./images/1head.png)
 ### tail():
-![Screenshot 2024-08-20 223023](https://github.com/user-attachments/assets/6a1861ee-dac9-408d-9f7a-faef16902dbd)
+![TAIL](./images/2tail.png)
+
 ## TRAINING SET INPUT
 ### X_Training:
-![Screenshot 2024-08-20 221625](https://github.com/user-attachments/assets/5b02582c-73c3-40e7-bca7-b53d44566ded)
+![X-Training](./images/3xtraining.png)
 ### Y_Training:
-![Screenshot 2024-08-20 221927](https://github.com/user-attachments/assets/3b8a3dc9-a4c3-4c62-879e-fe9f1420eba7)
+![Y-Training](./images/4ytraining.png)
+
 ## TEST SET VALUE
-### X_Test:
-![Screenshot 2024-08-20 222124](https://github.com/user-attachments/assets/5b112037-841a-48c7-a45f-8529261351df)
-### Y_Test:
-![Screenshot 2024-08-20 222224](https://github.com/user-attachments/assets/e5de4423-c71a-434b-a8b3-32d5c317d78d)
+### X_Test (Actual):
+![X-Test](./images/5xtest.png)
+### Y_Test (Predicted):
+![Y-Test](./images/6ytest.png)
 ### TRAINING SET:
-![Screenshot 2024-08-20 222458](https://github.com/user-attachments/assets/c550b4a3-7bc4-4365-ad61-03aa1fd3e53a)
+![Training Set](./images/trainingset.png)
 ### TEST SET:
-![Screenshot 2024-08-20 222547](https://github.com/user-attachments/assets/68d8ecf9-f140-4677-a7f9-9b6609da5987)
+![Test Set](./images/testingset.png)
 ### MEAN SQUARE ERROR, MEAN ABSOLUTE ERROR AND RMSE:
-![Screenshot 2024-08-20 222716](https://github.com/user-attachments/assets/2ecaced7-c4b7-448a-ab1a-126978202f4f)
+![MAE, MSE,RMSE](./images/7mae.png)
 
 
 
